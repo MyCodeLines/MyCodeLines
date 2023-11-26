@@ -2,8 +2,10 @@
 
 
 
-- 🔭 I’m currently working at Logic Powered Solutions
-- 🌱 Continuesly learning about more efficienct ways to improve coding skills
+- 🔭 I’m currently working at Logic Powered Solutions.
+- 🌱 Continuesly learning about more efficienct ways to improve coding skills.
+- I have contributed in many projects working as a lead full stack developer setting the base architecture .
+- I managed many projects managing the team as well as coding simultaniously.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
